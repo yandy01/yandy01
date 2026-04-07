@@ -147,22 +147,6 @@ je combine rigueur technique, créativité et solide culture réseau.
 
 📚 Lecture &nbsp;|&nbsp; 🧩 Jeux d'esprit &nbsp;|&nbsp; ⚽ Sport &nbsp;|&nbsp; 📱 Marketing Digital &nbsp;|&nbsp; 💻 Veille Tech &nbsp;|&nbsp; 🧠 Coding Challenges
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=yandy01&show_icons=true&theme=tokyonight&hide_border=true&title_color=378ADD&icon_color=1D9E75&text_color=ffffff&bg_color=1F3A6E" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yandy01&layout=compact&theme=tokyonight&hide_border=true&title_color=378ADD&text_color=ffffff&bg_color=1F3A6E" height="165" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yandy01&theme=tokyonight&hide_border=true&stroke=378ADD&ring=1D9E75&fire=FF6B6B&currStreakLabel=378ADD" />
-
-</div>
 
 ---
 
@@ -171,7 +155,6 @@ je combine rigueur technique, créativité et solide culture réseau.
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-mbengueyandy96%40gmail.com-1F3A6E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mbengueyandy96@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ndieme%20Mbengue-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/NdiemeMbengue)
 [![Localisation](https://img.shields.io/badge/📍-Dakar%2C%20Sénégal-1D9E75?style=for-the-badge)](https://maps.google.com/?q=Dakar,Senegal)
 
 </div>

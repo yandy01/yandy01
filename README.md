@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1F3A6E&height=200&section=header&text=Ndieme%20Mbengue&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Développeuse%20Full%20Stack%20%7C%20Web%20%26%20DevOps%20%7C%20Designer&descAlignY=55&descSize=18&descColor=B5D4F4" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1F3A6E&height=120&section=header&text=Open%20to%20opportunities%20✨&fontSize=20&fontColor=B5D4F4&animation=fadeIn" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=1F3A6E&height=200&section=header&text=Ndieme%20Mbengue&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Développeuse%20Full%20Stack%20%7C%20Web%20%26%20DevOps%20%7C%20Designer&descAlignY=55&descSize=18&descColor=B5D4F4)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=378ADD&center=true&vCenter=true&width=600&lines=Développeuse+Full+Stack+%F0%9F%92%BB;Angular+%7C+React+%7C+Vue.js+%7C+Spring+Boot;Docker+%7C+Kubernetes+%7C+CI%2FCD+%F0%9F%9A%80;WordPress+%7C+SEO+%7C+Marketing+Digital+%F0%9F%8C%90;Curieuse+%2C+Rigoureuse+%2C+Passionnée+%E2%9C%A8)](https://git.io/typing-svg)
 
